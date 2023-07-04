@@ -876,3 +876,7 @@ body {
     width: 300px;
     height: auto;  
 }
+
+#buttons {
+    padding: 10px;
+}
